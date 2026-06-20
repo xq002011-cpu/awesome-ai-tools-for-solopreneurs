@@ -180,6 +180,7 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 
 ## Related
 - [StackBuilt AI Tools Directory](https://stackbuilt.co/ai-tools-directory)
+- [One Person Company](https://onepersoncompany.com) - Free hub of 317 skill guides, an SEO playbook, and AI tool comparisons for solo founders.
 - [Best Tools for Solopreneurs](https://stackbuilt.co/solopreneur-tools)
 - [Best Tools for Indie Hackers](https://stackbuilt.co/indie-hacker-tools)
 
